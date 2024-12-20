@@ -1,1 +1,1 @@
-This is my project for predicting winner prize money using Men's Tennis Grand Slam Winner dataset via Jupyter Notebook. I cleaned and preprocessed the data, and used different models for predictions. However, the predictions were not as accurate as desired.
+This project aimed to predict winner prize money using the Men's Tennis Grand Slam Winner dataset through Jupyter Notebook. While the predictive models were implemented successfully, the prediction accuracy fell short of expectations.
